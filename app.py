@@ -11,13 +11,32 @@ from pathlib import Path
 BASE = Path(__file__).parent
 PRED = BASE / "outputs" / "predictions"
 
-group_preds    = pd.read_csv(PRED / "group_stage_predictions.csv")
-knockout_preds = pd.read_csv(PRED / "knockout_predictions.csv")
-cc_preds       = pd.read_csv(PRED / "corners_cards_predictions.csv")
-summary_md     = (PRED / "SUMMARY.md").read_text()
+def load_file(filename, is_csv=True):
+    """Helper to load files whether they are nested or in the root directory."""
+    # Check nested path first (local repo structure)
+    nested_path = PRED / filename
+    if nested_path.exists():
+        return pd.read_csv(nested_path) if is_csv else nested_path.read_text()
+    
+    # Check data/processed for tournament_winner_probs.csv
+    data_path = BASE / "data" / "processed" / filename
+    if data_path.exists():
+        return pd.read_csv(data_path) if is_csv else data_path.read_text()
+
+    # Check root directory (if user uploaded flat files to HF Spaces)
+    flat_path = BASE / filename
+    if flat_path.exists():
+        return pd.read_csv(flat_path) if is_csv else flat_path.read_text()
+    
+    raise FileNotFoundError(f"Could not find {filename} in {PRED}, {data_path.parent}, or {BASE}")
+
+group_preds    = load_file("group_stage_predictions.csv")
+knockout_preds = load_file("knockout_predictions.csv")
+cc_preds       = load_file("corners_cards_predictions.csv")
+summary_md     = load_file("SUMMARY.md", is_csv=False)
 
 try:
-    winner_probs = pd.read_csv(BASE / "data" / "processed" / "tournament_winner_probs.csv")
+    winner_probs = load_file("tournament_winner_probs.csv")
 except Exception:
     winner_probs = pd.DataFrame()
 
