@@ -1,0 +1,33 @@
+match_id,round,date_utc,venue,slot_home,slot_away,predicted_home,predicted_away,predicted_home_goals,predicted_away_goals,match_winner,home_win_prob,away_win_prob,corners,yellow_cards,red_cards
+73,Round of 32,2026-07-01 18:00:00+00:00,"MetLife Stadium, New York/New Jersey",Winner Group A,Runner-up Group B,Mexico,Canada,0,0,Mexico,0.6202,0.3798,10,4,0
+74,Round of 32,2026-07-01 22:00:00+00:00,"SoFi Stadium, Los Angeles",Winner Group B,Runner-up Group A,Switzerland,South Korea,1,1,Switzerland,0.6833,0.3167,10,4,0
+75,Round of 32,2026-07-02 18:00:00+00:00,"AT&T Stadium, Dallas",Winner Group C,Runner-up Group D,Brazil,Morocco,0,0,Brazil,0.6941,0.3059,10,4,0
+76,Round of 32,2026-07-02 22:00:00+00:00,"Hard Rock Stadium, Miami",Winner Group D,Runner-up Group C,Morocco,Paraguay,0,0,Morocco,0.5762,0.4238,10,4,0
+77,Round of 32,2026-07-03 18:00:00+00:00,"Mercedes-Benz Stadium, Atlanta",Winner Group E,Runner-up Group F,Netherlands,Germany,1,1,Germany,0.4499,0.5501,10,4,0
+78,Round of 32,2026-07-03 22:00:00+00:00,"Lumen Field, Seattle",Winner Group F,Runner-up Group E,Japan,Ecuador,0,0,Japan,0.6717,0.3283,10,4,0
+79,Round of 32,2026-07-04 18:00:00+00:00,"Gillette Stadium, Boston",Winner Group G,Runner-up Group H,Belgium,Uruguay,0,0,Belgium,0.6204,0.3796,10,4,0
+80,Round of 32,2026-07-04 22:00:00+00:00,"Arrowhead Stadium, Kansas City",Winner Group H,Runner-up Group G,Spain,Iran,1,0,Spain,0.7451,0.2549,10,4,0
+81,Round of 32,2026-07-05 18:00:00+00:00,"BC Place, Vancouver",Winner Group I,Runner-up Group J,France,Austria,1,1,France,0.6369,0.3631,10,4,0
+82,Round of 32,2026-07-05 22:00:00+00:00,"Rose Bowl, Los Angeles",Winner Group J,Runner-up Group I,Argentina,Norway,1,0,Argentina,0.8146,0.1854,10,4,0
+83,Round of 32,2026-07-06 18:00:00+00:00,"Lincoln Financial Field, Philadelphia",Winner Group K,Runner-up Group L,Colombia,Portugal,1,1,Colombia,0.7411,0.2589,10,4,0
+84,Round of 32,2026-07-06 22:00:00+00:00,"Levi's Stadium, San Francisco",Winner Group L,Runner-up Group K,England,Portugal,1,1,England,0.5677,0.4323,10,4,0
+85,Round of 32,2026-07-07 18:00:00+00:00,"BMO Field, Toronto",Best 3rd (A/B/C/D),Best 3rd (E/F/G/H),Côte d'Ivoire,Bosnia and Herzegovina,1,0,Côte d'Ivoire,0.5215,0.4785,10,4,0
+86,Round of 32,2026-07-07 22:00:00+00:00,"Estadio Akron, Guadalajara",Best 3rd (A/B/C/D),Best 3rd (I/J/K/L),Bosnia and Herzegovina,Austria,0,1,Austria,0.3294,0.6706,10,4,0
+87,Round of 32,2026-07-08 18:00:00+00:00,"Estadio BBVA, Monterrey",Best 3rd (E/F/G/H),Best 3rd (I/J/K/L),Sweden,Senegal,1,1,Senegal,0.4625,0.5375,10,4,0
+88,Round of 32,2026-07-08 22:00:00+00:00,"Azteca Stadium, Mexico City",Best 3rd (A/B/I/J),Best 3rd (C/D/K/L),Bosnia and Herzegovina,Scotland,1,1,Scotland,0.3774,0.6226,10,4,0
+89,Round of 16,2026-07-10 18:00:00+00:00,"MetLife Stadium, New York/New Jersey",Winner Match 73,Winner Match 74,Switzerland,Mexico,1,1,Switzerland,0.5564,0.4436,10,4,0
+90,Round of 16,2026-07-10 22:00:00+00:00,"SoFi Stadium, Los Angeles",Winner Match 75,Winner Match 76,Brazil,Morocco,0,0,Brazil,0.6203,0.3797,10,4,0
+91,Round of 16,2026-07-11 18:00:00+00:00,"AT&T Stadium, Dallas",Winner Match 77,Winner Match 78,Japan,Germany,1,1,Japan,0.6514,0.3486,10,4,0
+92,Round of 16,2026-07-11 22:00:00+00:00,"Hard Rock Stadium, Miami",Winner Match 79,Winner Match 80,Spain,Belgium,1,1,Spain,0.6732,0.3268,11,4,0
+93,Round of 16,2026-07-12 18:00:00+00:00,"Mercedes-Benz Stadium, Atlanta",Winner Match 81,Winner Match 82,Argentina,France,1,0,Argentina,0.7698,0.2302,10,4,0
+94,Round of 16,2026-07-12 22:00:00+00:00,"Lumen Field, Seattle",Winner Match 83,Winner Match 84,Portugal,Colombia,1,1,Portugal,0.5634,0.4366,10,4,0
+95,Round of 16,2026-07-13 18:00:00+00:00,"Gillette Stadium, Boston",Winner Match 85,Winner Match 86,Scotland,Bosnia and Herzegovina,1,0,Bosnia and Herzegovina,0.4998,0.5002,10,4,0
+96,Round of 16,2026-07-13 22:00:00+00:00,"Arrowhead Stadium, Kansas City",Winner Match 87,Winner Match 88,Sweden,Senegal,1,1,Senegal,0.4251,0.5749,10,4,0
+97,Quarter-final,2026-07-16 18:00:00+00:00,"MetLife Stadium, New York/New Jersey",Winner Match 89,Winner Match 90,Brazil,Switzerland,1,1,Brazil,0.5896,0.4104,10,4,0
+98,Quarter-final,2026-07-16 22:00:00+00:00,"SoFi Stadium, Los Angeles",Winner Match 91,Winner Match 92,Spain,Japan,0,0,Spain,0.5033,0.4967,10,4,0
+99,Quarter-final,2026-07-17 18:00:00+00:00,"AT&T Stadium, Dallas",Winner Match 93,Winner Match 94,Argentina,Portugal,1,0,Argentina,0.763,0.237,10,4,0
+100,Quarter-final,2026-07-17 22:00:00+00:00,"Hard Rock Stadium, Miami",Winner Match 95,Winner Match 96,Côte d'Ivoire,Senegal,1,1,Senegal,0.4887,0.5113,10,4,0
+101,Semi-final,2026-07-19 22:00:00+00:00,"MetLife Stadium, New York/New Jersey",Winner Match 97,Winner Match 98,Japan,Spain,0,0,Japan,0.6293,0.3707,10,4,0
+102,Semi-final,2026-07-20 22:00:00+00:00,"SoFi Stadium, Los Angeles",Winner Match 99,Winner Match 100,Argentina,Portugal,1,0,Argentina,0.8006,0.1994,10,4,0
+103,Third-place playoff,2026-07-22 18:00:00+00:00,"MetLife Stadium, New York/New Jersey",Loser Match 101,Loser Match 102,Brazil,Japan,1,1,Brazil,0.602,0.398,10,4,0
+104,Final,2026-07-22 22:00:00+00:00,"MetLife Stadium, New York/New Jersey",Winner Match 101,Winner Match 102,Argentina,Japan,0,0,Argentina,0.7144,0.2856,10,4,0

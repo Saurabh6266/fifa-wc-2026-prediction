@@ -1,0 +1,73 @@
+match_id,group,home_team,away_team,corners,yellow_cards,red_cards
+1,A,Mexico,South Africa,10,3,0
+2,A,South Korea,Czechia,10,3,0
+3,B,Canada,Bosnia and Herzegovina,10,3,0
+4,D,USA,Paraguay,10,3,0
+5,B,Qatar,Switzerland,10,3,0
+6,C,Brazil,Morocco,10,3,0
+7,C,Haiti,Scotland,10,3,0
+8,D,Australia,Türkiye,10,3,0
+9,E,Germany,Curaçao,10,3,0
+10,F,Netherlands,Japan,10,3,0
+11,E,Côte d'Ivoire,Ecuador,10,3,0
+12,F,Sweden,Tunisia,10,3,0
+13,G,Belgium,Egypt,10,3,0
+14,H,Spain,Cabo Verde,10,3,0
+15,G,Iran,New Zealand,10,3,0
+16,H,Saudi Arabia,Uruguay,10,3,0
+17,I,France,Senegal,10,3,0
+18,I,Iraq,Norway,10,3,0
+19,J,Argentina,Algeria,10,3,0
+20,J,Austria,Jordan,10,3,0
+21,K,Portugal,Congo DR,10,3,0
+22,L,England,Croatia,10,3,0
+23,L,Ghana,Panama,10,3,0
+24,K,Uzbekistan,Colombia,10,3,0
+25,A,Czechia,South Africa,10,3,0
+26,B,Switzerland,Bosnia and Herzegovina,10,3,0
+27,B,Canada,Qatar,10,3,0
+28,A,Mexico,South Korea,10,3,0
+29,D,USA,Australia,10,3,0
+30,C,Scotland,Morocco,10,3,0
+31,D,Türkiye,Paraguay,10,4,0
+32,C,Brazil,Haiti,10,3,0
+33,F,Netherlands,Sweden,10,3,0
+34,E,Germany,Côte d'Ivoire,10,3,0
+35,E,Ecuador,Curaçao,10,3,0
+36,F,Tunisia,Japan,10,3,0
+37,H,Spain,Saudi Arabia,10,3,0
+38,G,Belgium,Iran,10,3,0
+39,H,Uruguay,Cabo Verde,10,3,0
+40,G,New Zealand,Egypt,10,3,0
+41,J,Argentina,Austria,11,3,0
+42,I,France,Iraq,10,3,0
+43,I,Norway,Senegal,10,3,0
+44,J,Jordan,Algeria,10,3,0
+45,K,Portugal,Uzbekistan,10,3,0
+46,L,England,Ghana,10,3,0
+47,L,Panama,Croatia,10,3,0
+48,K,Colombia,Congo DR,10,3,0
+49,B,Switzerland,Canada,10,3,0
+50,B,Bosnia and Herzegovina,Qatar,10,3,0
+51,C,Scotland,Brazil,10,3,0
+52,C,Morocco,Haiti,10,3,0
+53,A,South Africa,South Korea,10,3,0
+54,A,Czechia,Mexico,10,3,0
+55,E,Curaçao,Côte d'Ivoire,10,3,0
+56,E,Ecuador,Germany,10,4,0
+57,F,Japan,Sweden,10,3,0
+58,F,Tunisia,Netherlands,10,3,0
+59,D,Paraguay,Australia,10,3,0
+60,D,Türkiye,USA,10,3,0
+61,I,Norway,France,10,3,0
+62,I,Senegal,Iraq,10,3,0
+63,H,Uruguay,Spain,10,4,0
+64,H,Cabo Verde,Saudi Arabia,10,3,0
+65,G,Egypt,Iran,10,3,0
+66,G,New Zealand,Belgium,10,3,0
+67,L,Panama,England,10,3,0
+68,L,Croatia,Ghana,10,3,0
+69,K,Colombia,Portugal,10,4,0
+70,K,Congo DR,Uzbekistan,10,3,0
+71,J,Jordan,Argentina,10,3,0
+72,J,Algeria,Austria,10,3,0

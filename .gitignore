@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+data/processed/
+outputs/plots/
+outputs/model_artifacts/
